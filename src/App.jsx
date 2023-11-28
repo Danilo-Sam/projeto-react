@@ -1,5 +1,5 @@
 import Tabela from './components/Table/Tabela'
-import Formulario from './components/Form/Formulario'
+import Formulario from './components/Form/formulario'
 
 function App() {
   return (
