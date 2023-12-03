@@ -1,0 +1,28 @@
+.tabela {
+    margin: 0 auto;
+    margin-bottom: 64px;
+    text-align: left;
+}
+
+.tabela,
+.head,
+.data {
+    border-collapse: collapse;
+    border: 2px solid #636060;
+    padding: 10px;
+
+    @media screen and (max-width: 640px) {
+        max-width: 90%;
+    }
+}
+
+.head {
+    background-color: lightgray;
+    font-size: 18px;
+    text-align: left;
+}
+
+.data {
+    text-align: center;
+    color: #fff;
+}

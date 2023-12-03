@@ -5,7 +5,7 @@ function App() {
   return (
     <>
     <Formulario/>
-    <Tabela />
+    <Tabela/>
     </>
   )
 }
